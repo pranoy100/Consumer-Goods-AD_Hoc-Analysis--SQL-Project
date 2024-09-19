@@ -37,8 +37,8 @@ The dataset utilized in this project pertains to AtliQ Hardwares, encompassing d
 ### Repository Contents
 
 1. **SQL Queries:** Contains the SQL queries used to extract and analyze data from the AtliQ Hardwares dataset. [SQL_QUERIES.pdf](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/files/15162270/SQL_QUERIES.pdf)
-2. **PPT:**  [SQL PROJECT.pptx](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/files/15162296/SQL.PROJECT.pptx)
+2. **PPT:**  [SQL PROJECT.pptx](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fpranoy100%2FConsumer-Goods-AD_Hoc-Analysis--SQL-Project%2Fmain%2FConsumer%2520Goods%2520Analysis%2520-%2520SQL%2520project.pptx&wdOrigin=BROWSELINK)
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Yatin-Govinda-Lokhande)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yatinlokhande/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Pranoy-Roy)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranoy-roy01/)
