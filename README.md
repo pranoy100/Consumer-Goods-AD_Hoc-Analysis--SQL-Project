@@ -37,7 +37,7 @@ The dataset utilized in this project pertains to AtliQ Hardwares, encompassing d
 ### Repository Contents
 
 1. **SQL Queries:** Contains the SQL queries used to extract and analyze data from the AtliQ Hardwares dataset. [SQL_QUERIES.pdf](https://github.com/pranoy100/Consumer-Goods-AD_Hoc-Analysis--SQL-Project/blob/main/SQL_QUERIES.pdf)
-2. **PPT:**  [SQL PROJECT.pptx](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fpranoy100%2FConsumer-Goods-AD_Hoc-Analysis--SQL-Project%2Fmain%2FConsumer%2520Goods%2520Analysis%2520-%2520SQL%2520project.pptx&wdOrigin=BROWSELINK)
+2. **PPT:**  [SQL PROJECT.pptx](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fpranoy100%2FConsumer-Goods-AD_Hoc-Analysis--SQL-Project%2Frefs%2Fheads%2Fmain%2FConsumer%2520Goods%2520Analysis%2520-%2520SQL%2520Project.pptx&wdOrigin=BROWSELINK)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Pranoy-Roy)
